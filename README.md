@@ -8,9 +8,6 @@
 Wopr is an app that replicates the behavior of the famous supercomputer Whopper, from the movie Wargames. He will ask to you, and if your answers are right, maybe you could choose a target.
 
 The application was **written in 2017**.
-  
-  
-<p align="center"><img src="https://github.com/R3nt0n/bopscrk/blob/master/img/example.gif" /></p>
 
 
 ## Legal disclaimer
