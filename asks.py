@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# WOPR [asks]
-# R3nt0n 03/2017
+# WOPR (https://www.github.com/R3nt0n/wopr)
+# R3nt0n (https://www.github.com/R3nt0n)
 
 import time
 
